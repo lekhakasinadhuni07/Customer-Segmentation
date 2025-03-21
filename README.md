@@ -5,7 +5,7 @@
 ### **Objective:** 
 To analyze customer spending behavior at a mall and segment customers into distinct groups for targeted marketing strategies.
 
-### Code: [Customer Segmentation.ipynb](https://github.com/lekhakasinadhuni07/Customer-Segmentation/blob/bc919cbfe79d2c81f180e5833076a8151b4c2b97/Customer%20Segmentation.ipynb)
+### Code: [`Customer Segmentation.ipynb`](https://github.com/lekhakasinadhuni07/Customer-Segmentation/blob/bc919cbfe79d2c81f180e5833076a8151b4c2b97/Customer%20Segmentation.ipynb)
 
 ### Project Overview
 
